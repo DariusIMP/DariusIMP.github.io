@@ -6,10 +6,28 @@
     <description>Recent content on Darius&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dariusimp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The LSA Gloves project</title>
+      <link>https://dariusimp.github.io/2022/05/the-lsa-gloves-project/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dariusimp.github.io/2022/05/the-lsa-gloves-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I got my software engineering degree!</title>
+      <link>https://dariusimp.github.io/2022/05/i-got-my-software-engineering-degree/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dariusimp.github.io/2022/05/i-got-my-software-engineering-degree/</guid>
+      <description>&lt;p&gt;I graduated! I am officially a software engineer from the none other than the great University of Buenos Aires!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Welcome to my page!</title>
