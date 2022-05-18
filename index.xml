@@ -6,7 +6,7 @@
     <description>Recent content on Darius&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dariusimp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>The LSA Gloves project</title>
       <link>https://dariusimp.github.io/2022/05/the-lsa-gloves-project/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dariusimp.github.io/2022/05/the-lsa-gloves-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;In the last post I said the project with which we got our engineering degree deserved its own post. Indeed, I&amp;rsquo;m going to explain a little what was this project which consisted of a glove with sensors and embedded machine learning  connected to a Flutter mobile app that translates gestures of the Argentinian sign language.&lt;/p&gt;</description>
     </item>
     
     <item>
